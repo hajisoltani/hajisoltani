@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
-  <img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" width="90">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 </p>
