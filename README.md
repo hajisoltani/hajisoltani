@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm mohadese 👋
 
 <!--
 **hajisoltani/hajisoltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,4 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-   <img src="https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz" width="100">
 </p>
