@@ -39,3 +39,21 @@ I'm mohadese hajisoltani, a front-end developer with a strong focus on React dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
+
+## Education
+- **Bachelor's Degree**: Computer Science
+  - Semnan University, Semnan, Iran
+  - Sep 2019 - May 2023
+
+## Languages
+- **English**: Fluent
+- **Persian**: Native
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohadese-hajisoltani-1664b4243/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hajisoltanimohadese@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
