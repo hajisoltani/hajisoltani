@@ -41,7 +41,7 @@ I'm mohadese hajisoltani, a front-end developer with a strong focus on React dev
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
 
 ## Education
-- **Bachelor's Degree**: Computer Science
+- **Bachelor's Degree**: Computer Engineering
   - Semnan University, Semnan, Iran
   - Sep 2019 - May 2023
 
