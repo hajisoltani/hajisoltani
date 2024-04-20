@@ -1,4 +1,4 @@
-### Hello! I'm mohadese 👋
+  ### Hello! I'm mohadese 👋
 
 <!--
 **hajisoltani/hajisoltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk0NDFlcDhyZHJ3bmptcWc4amtmdnJxdGtlNjFkdjJlMGwyN3BwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
 </p>
+
+## About Me
+I'm mohadese hajisoltani, a front-end developer with a strong focus on React development. I am always eager to learn new things and stay updated with the latest technology trends. I have strong problem solving skills and can easily adapt to new challenges I have a high spirit of teamwork that I can play an effective role in advancing the team's goals.
